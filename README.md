@@ -65,10 +65,6 @@ In addition to the projects, the repository includes:
 - **Homework 1:** `homework 1 convolution.pdf` - Analysis and implementation of convolution techniques.
 - **Homework 2:** `homework 2 canny edge detection.pdf` - Detailed study of the Canny edge detection algorithm.
 
-## How to Use
-1. Clone the repository: `git clone <repository-url>`
-2. Navigate to a project directory and open the corresponding Jupyter notebook.
-3. Follow the instructions in each notebook to reproduce the results.
 
 ## Skills Demonstrated
 - Computer Vision: Feature extraction, image stitching, and depth estimation.
@@ -76,7 +72,7 @@ In addition to the projects, the repository includes:
 - Programming: Proficiency in Python, OpenCV, and related libraries.
 
 ## Contact
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/) or email for any questions or collaboration opportunities.
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/vyaas-valsaraj) or email for any questions or collaboration opportunities.
 
 ---
 Thank you for visiting my repository! Your feedback is always welcome.
