@@ -72,7 +72,7 @@ In addition to the projects, the repository includes:
 - Programming: Proficiency in Python, OpenCV, and related libraries.
 
 ## Contact
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/vyaas-valsaraj) or email for any questions or collaboration opportunities.
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/vyaas-valsaraj) or email for any questions or collaboration opportunities.
 
 ---
 Thank you for visiting my repository! Your feedback is always welcome.
